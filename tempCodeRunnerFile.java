@@ -1,1 +1,0 @@
-ndex2] = temp;
